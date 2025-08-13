@@ -5,7 +5,7 @@ This is the workflow file about classification using Logistic Regression. In thi
 How to use this script?
 
 - First, download Python
-- Then, download the file 'Package.zip'
+- Then, download the file 'Package.zip' and 'Bank Data.csv' (for data example)
 - After that, download this repo as zip or using git clone https://github.com/JoshuaVincentius/ClassificationModule.git on git cli
 - Extract the folder and navigate to the extracted folder
 - Adjust the documentation link and package link
